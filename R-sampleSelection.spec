@@ -9,12 +9,9 @@ Group:            Sciences/Mathematics
 License:          GPL (>= 2)
 URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/%{packname}_0.6-12.tar.gz
-Requires:         R-maxLik R-systemfit 
-Requires:         R-miscTools 
-Requires:         R-VGAM R-MASS R-mvtnorm R-plm 
-BuildRequires:    R-devel Rmath-devel texlive-collection-latex R-maxLik R-systemfit
-BuildRequires:    R-miscTools 
-BuildRequires:    R-VGAM R-MASS R-mvtnorm R-plm 
+Requires:         R-maxLik R-systemfit R-miscTools R-VGAM R-MASS R-mvtnorm R-plm
+BuildRequires:    R-devel Rmath-devel texlive-collection-latex
+BuildRequires:    R-maxLik R-systemfit R-miscTools R-VGAM R-MASS R-mvtnorm R-plm
 
 %description
 Estimation of Sample Selection Models
