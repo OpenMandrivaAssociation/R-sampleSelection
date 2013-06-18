@@ -5,7 +5,7 @@
 
 Name:             R-%{packname}
 Version:          0.7.2
-Release:          1
+Release:          2
 Summary:          Sample Selection Models
 Group:            Sciences/Mathematics
 License:          GPL (>= 2)
