@@ -9,7 +9,7 @@ Release:          2
 Summary:          Sample Selection Models
 Group:            Sciences/Mathematics
 License:          GPL (>= 2)
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/sampleSelection_0.7-2.tar.gz
 Requires:         R-maxLik R-systemfit R-miscTools R-VGAM R-MASS R-mvtnorm R-plm
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex
